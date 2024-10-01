@@ -1,3 +1,4 @@
+![alt text](https://github.com/duanechan/duanechan/blob/main/README%20Banner.png)
 ## Hi there 👋
 
 <!--
